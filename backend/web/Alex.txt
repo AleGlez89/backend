@@ -1,0 +1,5 @@
+08 05 2019 02:05:11 El Archivo Alex.txt se ha creado
+08 05 2019 02:05:43 El Archivo Alex.txt se ha modificado
+08 05 2019 02:05:50 El Archivo Alex.txt se ha modificado
+08 05 2019 22:05:17 El Archivo Alex.txt se ha modificado
+08 05 2019 22:05:15 El Archivo Alex.txt se ha modificado
